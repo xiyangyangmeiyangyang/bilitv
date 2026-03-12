@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Android/Gradle
+.gradle/
+.kotl
+.kotlinc/
+.kotlin/
+.tmp-gradle/
+build/
+**/build/
+
+# IDE
+.idea/
+*.iml
+
+# Local SDK config
+local.properties
+
+# Large local downloads
+gradle-*-bin.zip
+
+# Logs
+*.log
+
+# Keystore/secrets
+*.jks
+*.keystore
+*.pem
+*.key
